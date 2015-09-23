@@ -72,3 +72,4 @@ function fib(){
 }
 console.log("fib: " + fib());
 console.log("fib length: " + fib().length)
+/** time: 22:32 **/
